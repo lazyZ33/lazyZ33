@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @lazyZ33
-- 👀 Interested in Web/Software Development ...
-- 🌱 Currently Enrolled in IIUI, Pakistan for BSCS & am a Web Developer at OneSolTech ...
-- 💞️ Looking to collaborate on *anything I CAN XD...
-- 📫 How to reach me
+👋 Hi there! I'm Zeeshan Mujtaba.
+👀 I'm passionate about web and software development.
+🌱 I'm currently pursuing a Bachelor's degree in Computer Science at IIUI and work as a web developer at OneSolTech.
+💞️ I'm eager to collaborate on exciting projects where I can contribute and learn.
+
+📫 You can reach me at:
 - zeeshanmujtaba17@gmail.com
 - https://www.instagram.com/lazy_z33/
-- https://www.linkedin.com/in/zeeshan-mujtaba-416232275/...
+- https://www.linkedin.com/in/lazyZ33
